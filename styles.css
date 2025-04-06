@@ -1,0 +1,67 @@
+body {
+    font-size: 1.5em;
+    font-family: "Montserrat", sans-serif;
+    background-color: #e8f1f7;
+}
+
+h1 {
+    display: inline;
+}
+
+button {
+    font-size: 1.2em;
+    border: none;
+    border-radius: 30%;
+    padding: 10px;
+    margin: 5px;
+}
+
+#startButton {
+    background-color: lightgreen;
+}
+
+#startButton:hover {
+    background-color: rgb(137, 236, 137);
+}
+
+#stopButton {
+    background-color: tomato;
+}
+
+#stopButton:hover {
+    background-color: rgb(255, 89, 60);
+}
+
+#resetButton {
+    background-color: lightblue;
+}
+
+#resetButton:hover {
+    background-color: rgb(162, 211, 228);
+}
+
+#timeDiv {
+    margin: 2em;
+}
+
+#container {
+    border: solid 5px;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.montserrat-font {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+  
